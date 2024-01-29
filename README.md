@@ -21,7 +21,7 @@
 
 5. Démarrez le serveur de développement en exécutant la commande suivante :
     ```
-    npm start
+    yarn start
     ```
 
 6. Scannez le code QR généré à l'aide de l'application Expo Go sur votre appareil mobile ou utilisez un émulateur pour tester votre application.

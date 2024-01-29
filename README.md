@@ -7,7 +7,7 @@
 2. Installez Expo CLI en exécutant la commande suivante dans votre terminal :
     ```
     npm install -g expo-cli
-    ```
+    ``` 
 
 
 3. Accédez au répertoire de votre projet :

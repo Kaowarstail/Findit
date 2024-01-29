@@ -16,7 +16,7 @@
 
 4. Accédez au répertoire de votre projet :
     ```
-    cd MonProjet
+    cd Findit
     ```
 
 5. Démarrez le serveur de développement en exécutant la commande suivante :
